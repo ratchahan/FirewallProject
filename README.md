@@ -45,3 +45,5 @@ IP ranges. Some initial research into this topic pointed me in the direction of 
 Segment Tress and kD Trees. I would have liked to spend more time studying and implementing these 
 data structures and conduct a performance evaluation. Another approach would be to evaluate 
 custom hashing function to map an integer to a range.
+
+I would be interested in working for the Policy Team.
